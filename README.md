@@ -31,6 +31,9 @@ int main(){
     return 0;
 }
 ```
+## Output 1a
+![output1a](https://github.com/user-attachments/assets/31d66e03-5874-4847-8afd-ae1578289b9b)
+
 ## Code 2:(Caluclator Program)
 ```
 //AKALP SARKAR
@@ -56,6 +59,9 @@ cout<<"Quotient is: "<<div<<"\n";
 return 0;
 }
 ```
+## Output 1b
+![output1b](https://github.com/user-attachments/assets/0082ce85-992f-4fc7-86df-f16972f24b2c)
+
 ## Conclusion:
 This simple program demonstrates the basic structure and workflow of a C++ program, including the use of headers, the main function, standard output, and the return statement.
 
